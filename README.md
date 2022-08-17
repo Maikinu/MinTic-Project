@@ -4,7 +4,7 @@
 
 |   Nombre    |       Contacto      |
 | --------    | -----------      |
-|   Miembro 1      |      Contacto 1    |
+|   Cristhian Almonacid      |      cyarsave1@gmail.com    |
 |   Miembro 2    | Contacto 2 |
 |   Gabriel Romero    |     gabrielhro10@gmail.com   |
 |   Mauricio Corredor |   hmcorredor@hotmail.com  |
