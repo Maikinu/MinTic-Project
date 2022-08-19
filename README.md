@@ -6,6 +6,6 @@
 | --------    | -----------      |
 |   Cristhian Almonacid      |      cyarsave1@gmail.com    |
 |   Gabriel Romero    | gabrielhro10@gmail.com |
-|   Miembro 3    |     Contacto 3   |
+|   Michael López    |     mlopezsi@hotmail.com   |
 |   Mauricio Corredor |   hmcorredor@hotmail.com  |
 |   Tulio Rangel   |  tjrn20@hotmail.com  |
